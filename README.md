@@ -9,11 +9,11 @@ This little adapter converts USB communication to UART using Silabs CP2102. Ever
 
 In addition, the board is a voltage regulator and a switch, it is possible to determine the output voltage of 3.3V or 5V, depending on the device you are using. Logic UART signal is always 3.3V, but do not worry, 5V devices will work without problems. There are also three LEDs, one for power indicator and one for each direction of UART communication.
  
-• Dimensions: 25 x 35 mm
-• USB - UART bridge: CP2102
-• Input voltage: 5V (USB)
-• Output voltage: 3.3V ili 5V
-• Logic of UART signal: 3.3V
+- Dimensions: 25 x 35 mm
+- USB - UART bridge: CP2102
+- Input voltage: 5V (USB)
+- Output voltage: 3.3V ili 5V
+- Logic of UART signal: 3.3V
 
 ## Repository content
 This repo contains Cadsoft Eagle .sch and .brd files for CO2102 breakout. It also contains schematic in .pdf created from .sch Eagle file. 
