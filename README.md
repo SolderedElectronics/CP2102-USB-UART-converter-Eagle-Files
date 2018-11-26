@@ -1,8 +1,7 @@
 # CP2102 USB-UART adapter Eagle Files
 ## Image
-![CP2102 USB to UART adapter image]
-(https://e-radionica.com/media/catalog/product/d/s/dsc_2992-2.jpg)
-[CP2102 USB to UART adapter(100033)] (https://e-radionica.com/en/usb-uart-adapter-with-cp2102-made-by-e-radionica.html)
+![CP2102 USB to UART adapter image](https://e-radionica.com/media/catalog/product/d/s/dsc_2992-2.jpg)
+[CP2102 USB to UART adapter(100033)](https://e-radionica.com/en/usb-uart-adapter-with-cp2102-made-by-e-radionica.html)
 
 ## Description and details
 This little adapter converts USB communication to UART using Silabs CP2102. Everything is packed on a small board. In addition to standard UART pins arranged in standard order: DTR, RXD, TXD, VCC, CTS, GND, other pins from the chip are available on the board: RST, Suspend, Suspend ', RI, DCD, DSR , RTS, CTS.
